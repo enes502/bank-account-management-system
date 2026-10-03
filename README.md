@@ -25,7 +25,7 @@ A fully-featured command-line banking application built with **Java**, implement
 ```text
 ├── Account.java      # Manages user details, balances, secure password algorithms, and transactions
 ├── Atm.java          # Handles the interactive menu and banking operations logic
-├── Logn.java         # Handles user authentication and credential verification
+├── Login.java         # Handles user authentication and credential verification
 └── Main.java         # Entry point for multi-account creation and session control
 └── README.md         # Project documentation
 
